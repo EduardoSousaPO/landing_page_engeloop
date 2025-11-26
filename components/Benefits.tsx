@@ -17,24 +17,24 @@ export default function Benefits() {
 
   const benefits = [
     {
-      title: 'Mais de 10 Anos no Mercado',
-      description: 'Portfólio repleto de obras concluídas com sucesso e clientes satisfeitos',
+      title: 'Especialistas em Terraplanagem',
+      description: 'Mais de 10 anos focados em terraplanagem e locação de máquinas, com portfólio repleto de projetos concluídos',
       icon: 'results'
     },
     {
-      title: 'Qualidade, Prazo e Normas',
-      description: 'Entregamos obras na mais perfeita qualidade, dentro do prazo e cumprindo todas as normas',
-      icon: 'custom'
+      title: 'Frota Moderna de Equipamentos',
+      description: 'Máquinas modernas e bem conservadas: retroescavadeiras, escavadeiras, motoniveladoras e mais',
+      icon: 'tech'
     },
     {
-      title: 'Profissionais Qualificados e Experientes',
-      description: 'Temos profissionais qualificados e experientes para atender nossos serviços',
+      title: 'Equipe Especializada',
+      description: 'Profissionais qualificados e experientes em terraplanagem, escavação e operação de máquinas pesadas',
       icon: 'team'
     },
     {
-      title: 'Maquinários e Ferramentas Tecnológicas',
-      description: 'Maquinários e ferramentas tecnológicas para atender nossos serviços',
-      icon: 'tech'
+      title: 'Qualidade e Agilidade',
+      description: 'Serviços executados com qualidade, dentro do prazo e cumprindo todas as normas técnicas',
+      icon: 'custom'
     }
   ]
 
@@ -44,10 +44,10 @@ export default function Benefits() {
         <div className="benefitsHeader">
           <h2>Por Que Nos Escolher?</h2>
           <p className="benefitsIntro">
-            Com mais de 10 anos de mercado, um portfólio repleto de obras concluídas com sucesso, 
-            clientes satisfeitos, a ENGELOOP sempre foi conhecida por uma empresa que entrega suas obras 
-            na mais perfeita qualidade, dentro do prazo e cumprindo todas as normas. 
-            Temos profissionais qualificados e experientes, maquinários e ferramentas tecnológicas para atender nossos serviços.
+            Com mais de 10 anos de mercado, especializados em terraplanagem e locação de máquinas, 
+            a ENGELOOP é reconhecida pela qualidade dos serviços, cumprimento de prazos e normas técnicas. 
+            Temos profissionais qualificados, frota moderna de equipamentos pesados e tecnologia de ponta 
+            para atender seus projetos de terraplanagem.
           </p>
         </div>
         <div className="benefitsGrid">

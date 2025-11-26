@@ -20,7 +20,7 @@ export default function Footer() {
               />
             </div>
             <h3>Engeloop Engenharia e Projetos Ltda</h3>
-            <p>Empresa goiana do ramo da construção civil há mais de 10 anos no mercado. Com sede em Goiânia – GO.</p>
+            <p>Empresa goiana especializada em terraplanagem e locação de máquinas há mais de 10 anos no mercado. Com sede em Goiânia – GO.</p>
           </div>
           <div className="footerSection">
             <div className="footerContactItem">

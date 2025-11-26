@@ -16,28 +16,28 @@ export default function Services() {
 
   const services = [
     {
-      title: 'Projetos',
-      description: '',
-      messageKey: 'desenvolvimentoProjetos' as const,
+      title: 'Terraplanagem',
+      description: 'Serviços completos de terraplanagem com equipamentos modernos e equipe especializada',
+      messageKey: 'terraplanagem' as const,
+      image: '/imagens_projeto/PaginaInicial.pdf-image-005.jpg',
+      alt: 'Serviços de terraplanagem e escavação',
+      items: ['Escavação', 'Aterro', 'Nivelamento', 'Compactação', 'Drenagem', 'Pavimentação']
+    },
+    {
+      title: 'Locação de Máquinas',
+      description: 'Locação de máquinas pesadas e equipamentos para terraplanagem e construção',
+      messageKey: 'locacaoMaquinas' as const,
       image: '/imagens_projeto/PaginaInicial.pdf-image-004.jpg',
-      alt: 'Plantas arquitetônicas e projetos de engenharia',
-      items: ['Elétrico', 'Hidráulico', 'Sanitário', 'Incêndio', 'Arquitetônico', 'Estrutural', 'Interiores']
+      alt: 'Locação de máquinas e equipamentos pesados',
+      items: ['Retroescavadeira', 'Escavadeira', 'Motoniveladora', 'Rolo compactador', 'Caminhão basculante', 'Pá carregadeira']
     },
     {
       title: 'Demolição e Escavação',
-      description: '',
-      messageKey: 'consultoriaEspecializada' as const,
-      image: '/imagens_projeto/PaginaInicial.pdf-image-005.jpg',
-      alt: 'Serviços de terraplanagem e escavação',
-      items: ['Escavação', 'Carga', 'Transporte de material', 'Compactação', 'Demolição em geral']
-    },
-    {
-      title: 'Construção e Reforma',
-      description: '',
-      messageKey: 'suporteManutencao' as const,
+      description: 'Serviços especializados de demolição e escavação com segurança e agilidade',
+      messageKey: 'demolicaoEscavacao' as const,
       image: '/imagens_projeto/PaginaInicial.pdf-image-006.jpg',
-      alt: 'Obras residenciais, comerciais e industriais',
-      items: ['Residencial', 'Comercial', 'Industrial']
+      alt: 'Serviços de demolição e escavação',
+      items: ['Demolição em geral', 'Escavação de fundações', 'Carga e transporte', 'Limpeza de terreno']
     }
   ]
 

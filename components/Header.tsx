@@ -38,7 +38,7 @@ export default function Header() {
           >
             <Image
               src="/imagens_projeto/logo_oficial_1.png"
-              alt="Engeloop - Engenharia e Projetos"
+              alt="Engeloop - Terraplanagem e Locação de Máquinas"
               width={400}
               height={160}
               priority
@@ -97,7 +97,7 @@ export default function Header() {
                 scrollToSection('portfolio')
               }}
             >
-              Projetos
+              Portfólio
             </a>
           </li>
           <li>

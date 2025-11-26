@@ -25,23 +25,25 @@ export default function About() {
       <div className="container">
         <div className="sectionHeader">
           <h2>Sobre a Engeloop</h2>
-          <p className="sectionSubtitle">Conheça nossa história e compromisso com a excelência</p>
+          <p className="sectionSubtitle">Especialistas em terraplanagem e locação de máquinas há mais de 10 anos</p>
         </div>
         <div className="aboutContent">
           <div className="aboutText">
-            <h3>Nossa Missão</h3>
+            <h3>Nossa Especialização</h3>
             <p>
-              Na Engeloop, acreditamos que cada projeto é único e merece atenção especial. 
-              Com anos de experiência no mercado, oferecemos soluções personalizadas que 
-              atendem às necessidades específicas de cada cliente.
+              A Engeloop é uma empresa goiana do ramo da construção civil há mais de 10 anos no mercado. 
+              Nos últimos anos, nos especializamos em <strong>terraplanagem e locação de máquinas</strong>, 
+              sendo este nosso foco principal (90% dos nossos serviços). Oferecemos soluções completas 
+              em terraplanagem, escavação e locação de equipamentos pesados para atender às necessidades 
+              de nossos clientes em qualquer lugar do país.
             </p>
             <h3>Por Que Escolher a Engeloop?</h3>
             <ul className="featuresList">
-              <li>✓ Equipe especializada e certificada</li>
-              <li>✓ Tecnologia de ponta</li>
-              <li>✓ Atendimento personalizado</li>
-              <li>✓ Resultados comprovados</li>
-              <li>✓ Suporte contínuo</li>
+              <li>✓ Especialistas em terraplanagem e locação de máquinas</li>
+              <li>✓ Frota moderna de equipamentos pesados</li>
+              <li>✓ Equipe qualificada e experiente</li>
+              <li>✓ Atendimento rápido e eficiente</li>
+              <li>✓ Mais de 10 anos de experiência no mercado</li>
             </ul>
             <a
               href={getWhatsAppLink('sobre')}

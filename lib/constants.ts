@@ -27,9 +27,13 @@ export const WHATSAPP_MESSAGES = {
   especialista: 'Olá!%20Gostaria%20de%20falar%20com%20um%20especialista',
   sobre: 'Olá!%20Gostaria%20de%20saber%20mais%20sobre%20a%20Engeloop',
   contato: 'Olá!%20Gostaria%20de%20entrar%20em%20contato',
-  consultoriaEspecializada: 'Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Consultoria%20Especializada',
-  desenvolvimentoProjetos: 'Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Desenvolvimento%20de%20Projetos',
-  suporteManutencao: 'Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Suporte%20e%20Manutenção'
+  terraplanagem: 'Olá!%20Gostaria%20de%20solicitar%20orçamento%20para%20serviços%20de%20terraplanagem',
+  locacaoMaquinas: 'Olá!%20Gostaria%20de%20solicitar%20orçamento%20para%20locação%20de%20máquinas',
+  demolicaoEscavacao: 'Olá!%20Gostaria%20de%20solicitar%20orçamento%20para%20demolição%20e%20escavação',
+  // Mantidos para compatibilidade (podem ser removidos no futuro)
+  consultoriaEspecializada: 'Olá!%20Gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20de%20terraplanagem',
+  desenvolvimentoProjetos: 'Olá!%20Gostaria%20de%20saber%20mais%20sobre%20locação%20de%20máquinas',
+  suporteManutencao: 'Olá!%20Gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20de%20demolição%20e%20escavação'
 }
 
 // Tipos para TypeScript

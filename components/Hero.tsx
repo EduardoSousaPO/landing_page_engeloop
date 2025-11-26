@@ -22,11 +22,11 @@ export default function Hero() {
               <span className="heroBadgeText">Mais de 10 Anos de Experiência</span>
             </div>
             <h1 className="heroTitle">
-              Engenharia e Projetos com <span className="highlight">Excelência</span>
+              Terraplanagem e <span className="highlight">Locação de Máquinas</span>
             </h1>
             <p className="heroSubtitle">
-              Empresa goiana do ramo da construção civil há <strong>mais de 10 anos no mercado</strong>. 
-              Entregamos obras na mais perfeita qualidade, dentro do prazo e cumprindo todas as normas. 
+              Empresa goiana especializada em <strong>terraplanagem e locação de máquinas</strong> há mais de 10 anos no mercado. 
+              Focamos em serviços de terraplanagem, escavação e locação de equipamentos pesados. 
               Com sede em Goiânia – GO, atendemos em qualquer lugar do país.
             </p>
             <div className="heroBenefits">
@@ -34,13 +34,13 @@ export default function Hero() {
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                 </svg>
-                <span>Qualidade e Prazo Garantidos</span>
+                <span>Frota Moderna de Máquinas</span>
               </div>
               <div className="heroBenefitItem">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                 </svg>
-                <span>Profissionais Qualificados</span>
+                <span>Especialistas em Terraplanagem</span>
               </div>
               <div className="heroBenefitItem">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">

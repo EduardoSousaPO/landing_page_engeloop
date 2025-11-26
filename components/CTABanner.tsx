@@ -18,10 +18,10 @@ export default function CTABanner() {
       <div className="container">
         <div className="ctaBannerContent">
           <div className="ctaBannerText">
-            <h2>Pronto para Iniciar Seu Projeto?</h2>
+            <h2>Precisa de Terraplanagem ou Locação de Máquinas?</h2>
             <p>
               Entre em contato agora e receba um orçamento personalizado.<br />
-              Nossa equipe está pronta para transformar suas ideias em realidade.
+              Nossa equipe especializada está pronta para atender seu projeto.
             </p>
           </div>
           <div className="ctaBannerActions">

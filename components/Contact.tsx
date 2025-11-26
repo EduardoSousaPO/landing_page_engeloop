@@ -19,7 +19,7 @@ export default function Contact() {
       <div className="contactBackgroundImage">
         <Image
           src="/imagens_projeto/PaginaInicial.pdf-image-012.jpg"
-          alt="Engeloop - Engenharia e Projetos"
+          alt="Engeloop - Terraplanagem e Locação de Máquinas"
           fill
           className="contactBgImage"
           style={{ objectFit: 'cover' }}
